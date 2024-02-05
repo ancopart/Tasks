@@ -1,4 +1,4 @@
 let admin, name
- name = "Mher"
+ name = "Philipp anush aper"
 admin = name
 console.log(admin)
