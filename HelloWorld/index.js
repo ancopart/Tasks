@@ -1,3 +1,4 @@
-let helloJs = '«Я JavaScript!»'
-
-console.log(helloJs)
+let admin, name
+ name = "Mher"
+admin = name
+console.log(admin)
